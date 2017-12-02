@@ -1,0 +1,11 @@
+F:\StorageLocker\StorageLocker\bin\Debug\netcoreapp2.0\StorageLocker.deps.json
+F:\StorageLocker\StorageLocker\bin\Debug\netcoreapp2.0\StorageLocker.runtimeconfig.json
+F:\StorageLocker\StorageLocker\bin\Debug\netcoreapp2.0\StorageLocker.runtimeconfig.dev.json
+F:\StorageLocker\StorageLocker\bin\Debug\netcoreapp2.0\StorageLocker.dll
+F:\StorageLocker\StorageLocker\bin\Debug\netcoreapp2.0\StorageLocker.pdb
+F:\StorageLocker\StorageLocker\obj\Debug\netcoreapp2.0\StorageLocker.csprojResolveAssemblyReference.cache
+F:\StorageLocker\StorageLocker\obj\Debug\netcoreapp2.0\StorageLocker.csproj.CoreCompileInputs.cache
+F:\StorageLocker\StorageLocker\obj\Debug\netcoreapp2.0\StorageLocker.AssemblyInfoInputs.cache
+F:\StorageLocker\StorageLocker\obj\Debug\netcoreapp2.0\StorageLocker.AssemblyInfo.cs
+F:\StorageLocker\StorageLocker\obj\Debug\netcoreapp2.0\StorageLocker.dll
+F:\StorageLocker\StorageLocker\obj\Debug\netcoreapp2.0\StorageLocker.pdb
